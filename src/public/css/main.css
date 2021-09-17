@@ -1,0 +1,20 @@
+.jumbotron {
+    color: white;
+    background-color: #9574CC;
+}
+
+.footer {
+    background-color: #D0C5E9;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.address {
+    font-size: 12px;
+}
+
+.network {
+    font-size: 15px;
+}

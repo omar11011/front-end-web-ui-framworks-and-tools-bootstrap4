@@ -1,0 +1,17 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/"
+  },
+  "author": "Omar Antonio Atarama Chanduví",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}

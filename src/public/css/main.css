@@ -1,6 +1,14 @@
+body {
+    width: 100%;
+}
+
+.test {
+    border: 1px red solid;
+}
+
 .jumbotron {
     color: white;
-    background-color: #9574CC;
+    background-color: #9477CB;
 }
 
 .footer {
@@ -16,5 +24,61 @@
 }
 
 .network {
-    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.format {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Navbar */
+
+.navbar {
+    background-color: #5033A4;
+}
+
+.nav-link {
+    color: white !important;
+    opacity: 0.5;
+}
+
+.navbar-logo {
+    height: 30px;
+}
+
+/* Home */
+
+.home-content-img {
+    height: 120;
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+    padding: 5px
+}
+
+.home-content-title {
+    font-weight: bold;
+}
+
+.home-content-extra {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.home-table-title {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.home-form {
+    border: 1px solid;
+}
+
+/* Footer */
+
+.footer-network-icon {
+    font-size: 2em;
 }

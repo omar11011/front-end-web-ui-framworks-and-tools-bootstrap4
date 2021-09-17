@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+    
+    .home-content-img {
+        height: 100%;
+    }
+
+    .reverse {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+}

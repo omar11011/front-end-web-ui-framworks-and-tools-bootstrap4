@@ -78,3 +78,14 @@
 .footer-network-icon {
     font-size: 2em;
 }
+
+/* Modals */
+
+.modal-bg-light {
+    background-color: #CEC2E3 !important;
+}
+
+.modal-bg-dark {
+    background-color: #5033A4;
+    color: white !important;
+}

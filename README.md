@@ -88,3 +88,33 @@ In this task you will be updating the Reserve Table button in the Jumbotron:
 At the end of this assignment, your index.html file should look like this:
 
 ![](https://bootstrap4-hong-kong.herokuapp.com/img/screen_assignment3.png)
+
+## Assignment 4
+
+### Task 1
+
+In this task you will be removing the data-* attributes from the Reserve Table button in the Jumbotron that enable the toggling of the Reserve Table modal. Similarly you will also remove the data-* attributes from the Login link in the Navbar that triggers the Login modal.
+
+### Task 2
+
+1. You will add the appropriate JavaScript code to the script.
+2. You will update the button so that the modal is triggered when the button is clicked.
+3. Note: Read Bootstrap Modal Methods for more information on how to implement the JavaScript methods.
+
+### Task 3
+
+In this task you will add appropriate JavaScript code to the page so that the Login modal will be toggled when the Login link is clicked:
+
+1. You will add the appropriate JavaScript code to the script.
+2. You will update the Login link so that the modal is triggered when the link is clicked.
+
+### Task 4
+
+In this task you will add appropriate SCSS code to styles.scss whereby the colors of the Modal are appropriately styled. These colors are already set up in the styles.scss file.
+
+1. You will set the modal header to dark background and change the text color to floralwhite, and use nesting to change the color of the close button to floralwhite.
+2. You will set the modal body to the pale background
+
+![](https://bootstrap4-hong-kong.herokuapp.com/img/reserve_modal.png)
+
+![](https://bootstrap4-hong-kong.herokuapp.com/img/login_modal.png)

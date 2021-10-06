@@ -1,4 +1,4 @@
-# Proyect
+# Project
 
 This project is part of the development of the four tasks of the *Front-End Web UI Frameworks and Tools: Bootstrap 4* course taught by*The Hong Kong University of Science and Technology*. In this project we develop a web page from scratch using Bootstrap components, we also learn about Node.js and a bit of Git and CSS preprocessors.
 
